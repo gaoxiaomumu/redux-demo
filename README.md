@@ -1,10 +1,10 @@
-# ykit-starter-react
-YKit-React 示例工程
+# redux-demo
+Redux 示例工程
 
 ## Getting Started
 ```
-$ git clone https://github.com/roscoe054/ykit-starter-react.git
-$ cd ykit-starter-react
+$ git clone https://github.com/gaoxiaomumu/redux-demo.git
+$ cd redux-demo
 $ npm install 或者 yarn
 ```
 
@@ -12,7 +12,7 @@ $ npm install 或者 yarn
 ```
 $ npm start
 ```
-访问 http://127.0.0.1:3000/index.html
+访问 http://127.0.0.1:3008/index.html
 
 ## Build
 ```
